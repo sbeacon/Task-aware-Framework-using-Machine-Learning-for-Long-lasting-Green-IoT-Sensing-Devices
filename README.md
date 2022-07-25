@@ -25,3 +25,7 @@ The source code aims to implement a time-series prediction neural network model 
 5. Compile code
 6. Flash code
 7. Check device operation through J-LINK RTT Viewer 
+
+## Todo
+1. Add nn architecture
+2. Add how it works
