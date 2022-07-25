@@ -1,7 +1,5 @@
 # Task-aware-Framework-using-Machine-Learning-for-Long-lasting-Green-IoT-Sensing-Devices
-Task-aware Framework using Machine Learning for Long-lasting Green IoT Sensing Devices
-
-## Purpose of this Software
+This project aims to reduce the power consumption in green IoT sensing devices, by changing the sensing frequency using machine learning.
 
 ## User Guideline
 
